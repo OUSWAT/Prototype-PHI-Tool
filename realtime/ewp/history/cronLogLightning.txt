@@ -3,6 +3,7 @@ Wind Reports
 Could not match report to object :(
 Could not match report to object :(
 Hail Reports
+Could not match report to object :(
 Traceback (most recent call last):
   File "/var/www/html/RadarQC/phi_new/realtime/ewp/history/lsrObjects.py", line 213, in <module>
     fh = open(log,'w')

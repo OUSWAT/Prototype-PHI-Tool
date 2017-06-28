@@ -1,14 +1,16 @@
 /usr/lib/python2.7/site-packages/pkg_resources.py:1054: UserWarning: /mnt/home/radarqc/.python-eggs is writable by group/others and vulnerable to attack when used with get_resource_filename. Consider a more secure location (set with .set_extraction_path or the PYTHON_EGG_CACHE environment variable).
   warnings.warn(msg, UserWarning)
-php /var/www/html/RadarQC/phi_new/realtime/ewp/ewpProbs.php d=20170628193430 fcstr=blobert type=severe archive=0 block=1 automated=1
+php /var/www/html/RadarQC/phi_new/realtime/ewp/ewpProbs.php d=20170628195432 fcstr=blobert type=severe archive=0 block=1 automated=1
 Processing human objects...
 Processing modified objects...
-1 of 1 binaries have arrived!
+2 of 2 binaries have arrived!
 Merging auto-generated grids...
+in here!!!!!!
+yipppie!!
 in here!!!!!!
 yipppie!!
 Human/modified grids done!
 Merging human/modified grids...
 -101.94 39.04 -93.94 45.04
-/localdata/radarqc/PHI/floater/PHI/Floater_20170628-193430_PHI-severe-blobert_00.00.png
-Time elapsed: 8.65101003647 seconds
+/localdata/radarqc/PHI/floater/PHI/Floater_20170628-195432_PHI-severe-blobert_00.00.png
+Time elapsed: 8.72948598862 seconds
