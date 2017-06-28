@@ -1,102 +1,101 @@
 Velocity
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Velocity/KDMX_20170628-115632_Velocity_00.50.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Velocity/KABR_20170628-115723_Velocity_00.50.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Velocity/KEAX_20170628-115844_Velocity_00.50.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Velocity/KDMX_20170628-115909_Velocity_00.50.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Velocity/KABR_20170628-115931_Velocity_00.50.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Velocity/KABR_20170628-120647_Velocity_00.50.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Velocity/KDMX_20170628-120938_Velocity_00.50.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Velocity/KABR_20170628-120910_Velocity_00.50.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Velocity/KDMX_20170628-120703_Velocity_00.50.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Velocity/KEAX_20170628-120615_Velocity_00.50.png
 lightningObjects
 ReflectivityAtLowestAltitude
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/ReflectivityAtLowestAltitude/Floater_20170628-115641_ReflectivityAtLowestAltitude_00.50.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/ReflectivityAtLowestAltitude/Floater_20170628-115837_ReflectivityAtLowestAltitude_00.50.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/ReflectivityAtLowestAltitude/Floater_20170628-120837_ReflectivityAtLowestAltitude_00.50.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/ReflectivityAtLowestAltitude/Floater_20170628-120640_ReflectivityAtLowestAltitude_00.50.png
 PHI-Lightning
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/PHI-Lightning/Floater_20170628-120002_PHI-tornado-blobert_00.00.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/PHI-Lightning/Floater_20170628-115601_PHI-tornado-blobert_00.00.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/PHI-Lightning/Floater_20170628-115802_PHI-tornado-blobert_00.00.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/PHI-Lightning/Floater_20170628-115835_PHI-severe-blobert_00.00.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/PHI-Lightning/Floater_20170628-115636_PHI-severe-blobert_00.00.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/PHI-Lightning/Floater_20170628-120801_PHI-tornado-blobert_00.00.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/PHI-Lightning/Floater_20170628-120838_PHI-severe-blobert_00.00.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/PHI-Lightning/Floater_20170628-120602_PHI-tornado-blobert_00.00.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/PHI-Lightning/Floater_20170628-120634_PHI-severe-blobert_00.00.png
 RotationTrack60min
 PHITable
 ReflectivityQC
 humanObjects
-rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/humanObjects/legacy/tornado_20170628-115802.json
-rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/humanObjects/legacy/tornado_20170628-120002.json
-rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/humanObjects/legacy/severe_20170628-115835.json
-rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/humanObjects/legacy/severe_20170628-115636.json
-rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/humanObjects/legacy/tornado_20170628-115601.json
+rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/humanObjects/legacy/tornado_20170628-120801.json
+rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/humanObjects/legacy/severe_20170628-120838.json
+rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/humanObjects/legacy/tornado_20170628-120602.json
+rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/humanObjects/legacy/severe_20170628-120634.json
 MESH
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/MESH/Floater_20170628-115641_MESH_00.50.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/MESH/Floater_20170628-115837_MESH_00.50.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/MESH/Floater_20170628-120640_MESH_00.50.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/MESH/Floater_20170628-120837_MESH_00.50.png
 MESH_Max_60min
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/MESH_Max_60min/Floater_20170628-115641_MESH_Max_60min_00.50.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/MESH_Max_60min/Floater_20170628-120640_MESH_Max_60min_00.50.png
 Reflectivity
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KABR_20170628-115620_Reflectivity_01.80.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KEAX_20170628-115724_Reflectivity_04.00.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KEAX_20170628-115710_Reflectivity_03.10.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KABR_20170628-115840_Reflectivity_10.00.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KEAX_20170628-115907_Reflectivity_00.90.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KDMX_20170628-115721_Reflectivity_06.40.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KABR_20170628-115952_Reflectivity_00.90.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KEAX_20170628-115656_Reflectivity_02.40.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KEAX_20170628-115739_Reflectivity_05.10.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KABR_20170628-115705_Reflectivity_00.50.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KDMX_20170628-115614_Reflectivity_00.50.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KDMX_20170628-115530_Reflectivity_01.80.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KDMX_20170628-115831_Reflectivity_19.50.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KEAX_20170628-115752_Reflectivity_06.40.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KDMX_20170628-115708_Reflectivity_05.10.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KEAX_20170628-115826_Reflectivity_00.50.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KDMX_20170628-115851_Reflectivity_00.50.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KABR_20170628-115759_Reflectivity_05.10.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KABR_20170628-115650_Reflectivity_03.10.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KDMX_20170628-115559_Reflectivity_03.10.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KDMX_20170628-115735_Reflectivity_08.00.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KABR_20170628-115813_Reflectivity_06.40.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KABR_20170628-115541_Reflectivity_01.30.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KABR_20170628-115636_Reflectivity_02.40.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KEAX_20170628-115640_Reflectivity_01.80.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KEAX_20170628-115806_Reflectivity_08.00.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KABR_20170628-115744_Reflectivity_04.00.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KDMX_20170628-115929_Reflectivity_00.90.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KDMX_20170628-115816_Reflectivity_15.60.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KEAX_20170628-115517_Reflectivity_00.90.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KABR_20170628-115854_Reflectivity_12.50.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KDMX_20170628-115653_Reflectivity_04.00.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KABR_20170628-115913_Reflectivity_00.50.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KABR_20170628-115827_Reflectivity_08.00.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KEAX_20170628-115949_Reflectivity_01.30.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KEAX_20170628-115559_Reflectivity_01.30.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KDMX_20170628-115749_Reflectivity_10.00.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KDMX_20170628-115802_Reflectivity_12.50.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KABR_20170628-115503_Reflectivity_00.90.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KDMX_20170628-115545_Reflectivity_02.40.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KDMX_20170628-120522_Reflectivity_01.30.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KDMX_20170628-120752_Reflectivity_06.40.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KDMX_20170628-120806_Reflectivity_08.00.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KEAX_20170628-120510_Reflectivity_05.10.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KEAX_20170628-120859_Reflectivity_05.10.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KABR_20170628-120558_Reflectivity_01.80.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KEAX_20170628-120523_Reflectivity_06.40.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KEAX_20170628-120816_Reflectivity_02.40.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KDMX_20170628-120819_Reflectivity_10.00.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KEAX_20170628-120638_Reflectivity_00.90.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KDMX_20170628-120630_Reflectivity_03.10.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KDMX_20170628-121000_Reflectivity_00.90.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KEAX_20170628-120537_Reflectivity_08.00.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KDMX_20170628-120645_Reflectivity_00.50.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KEAX_20170628-120719_Reflectivity_01.30.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KEAX_20170628-120801_Reflectivity_01.80.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KDMX_20170628-120724_Reflectivity_04.00.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KEAX_20170628-120831_Reflectivity_03.10.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KDMX_20170628-120847_Reflectivity_15.60.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KEAX_20170628-120927_Reflectivity_08.00.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KDMX_20170628-120901_Reflectivity_19.50.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KABR_20170628-120804_Reflectivity_08.00.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KDMX_20170628-120600_Reflectivity_01.80.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KABR_20170628-120852_Reflectivity_00.50.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KABR_20170628-120614_Reflectivity_02.40.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KEAX_20170628-120947_Reflectivity_00.50.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KDMX_20170628-120738_Reflectivity_05.10.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KABR_20170628-120930_Reflectivity_00.90.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KEAX_20170628-120557_Reflectivity_00.50.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KABR_20170628-120629_Reflectivity_00.50.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KDMX_20170628-120833_Reflectivity_12.50.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KABR_20170628-120722_Reflectivity_04.00.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KABR_20170628-120818_Reflectivity_10.00.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KDMX_20170628-120616_Reflectivity_02.40.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KABR_20170628-120520_Reflectivity_01.30.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KABR_20170628-120751_Reflectivity_06.40.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KABR_20170628-120708_Reflectivity_03.10.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KABR_20170628-120737_Reflectivity_05.10.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KDMX_20170628-120921_Reflectivity_00.50.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KEAX_20170628-120845_Reflectivity_04.00.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KABR_20170628-120832_Reflectivity_12.50.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/Reflectivity/KEAX_20170628-120913_Reflectivity_06.40.png
 allhazard
 MergedReflectivityQCComposite
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/MergedReflectivityQCComposite/Floater_20170628-115837_MergedReflectivityQCComposite_00.50.png
-rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/MergedReflectivityQCComposite/Floater_20170628-115641_MergedReflectivityQCComposite_00.50.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/MergedReflectivityQCComposite/Floater_20170628-120837_MergedReflectivityQCComposite_00.50.png
+rm /var/www/html/RadarQC/phi_new/realtime/ewp/floater/MergedReflectivityQCComposite/Floater_20170628-120640_MergedReflectivityQCComposite_00.50.png
 PHI-Severe
 PHI
 RotationTrackML60min
 PHI-Tornado
 azShearObjects
 probSevereObjects
-rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/objects/probSevere_20170628-115835_0170789.json
-rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/objects/probSevere_20170628-115835_0170795.json
-rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/objects/probSevere_20170628-115636_0170768.json
-rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/binary/20170628-115636_0170768.npz
-rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/binary/20170628-115835_0170564.npz
-rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/binary/20170628-115835_0170795.npz
-rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/binary/20170628-115636_0170564.npz
-rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/binary/20170628-115835_0170720.npz
-rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/binary/20170628-115636_0170361.npz
-rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/binary/20170628-115835_0170753.npz
-rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/binary/20170628-115636_0170639.npz
-rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/binary/20170628-115835_0170761.npz
-rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/binary/20170628-115636_0170761.npz
-rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/binary/20170628-115636_0170753.npz
-rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/binary/20170628-115835_0170639.npz
-rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/binary/20170628-115835_0170361.npz
-rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/binary/20170628-115835_0170768.npz
-rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/binary/20170628-115835_0170789.npz
-rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/binary/20170628-115636_0170720.npz
-rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/legacy/severe_20170628-115835.json
-rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/legacy/severe_20170628-115636.json
+rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/objects/probSevere_20170628-120634_0170849.json
+rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/objects/probSevere_20170628-120634_0170852.json
+rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/objects/probSevere_20170628-120634_0170851.json
+rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/binary/20170628-120634_0170851.npz
+rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/binary/20170628-120634_0170361.npz
+rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/binary/20170628-120838_0170839.npz
+rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/binary/20170628-120634_0170795.npz
+rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/binary/20170628-120634_0170720.npz
+rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/binary/20170628-120634_0170821.npz
+rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/binary/20170628-120634_0170849.npz
+rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/binary/20170628-120838_0170720.npz
+rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/binary/20170628-120838_0170821.npz
+rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/binary/20170628-120838_0170361.npz
+rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/binary/20170628-120634_0170852.npz
+rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/binary/20170628-120838_0170852.npz
+rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/binary/20170628-120838_0170795.npz
+rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/binary/20170628-120634_0170839.npz
+rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/binary/20170628-120838_0170849.npz
+rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/legacy/severe_20170628-120838.json
+rm -rf /var/www/html/RadarQC/phi_new/realtime/ewp/floater/probSevereObjects/legacy/severe_20170628-120634.json
