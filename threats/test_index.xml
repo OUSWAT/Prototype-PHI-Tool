@@ -1,0 +1,12 @@
+<codeindex>
+<item>
+ <time fractional="0.000000"> 1306267585 </time>
+ <params>netcdf {indexlocation} Probability 20110524-200625.netcdf </params>
+ <selections>20110524-200625 Probability </selections>
+</item>
+<item>
+ <time fractional="0.000000"> 1374542050 </time>
+ <params>netcdf {indexlocation} MergedReflectivityQComposite 20130723-011410.netcdf </params>
+ <selections>20130723-011410 MergedReflectivityQComposite </selections>
+</item>
+</codeindex>

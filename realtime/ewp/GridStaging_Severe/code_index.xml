@@ -1,0 +1,27 @@
+<codeindex>
+<item>
+ <time fractional="0.000000"> 1429209038 </time>
+ <params>netcdf {indexlocation} PHIGrid_Severe 00.00 20150416-183038.netcdf </params>
+ <selections>20150416-183038 PHIGrid_Severe 00.00 </selections>
+</item>
+<item>
+ <time fractional="0.000000"> 1429209160 </time>
+ <params>netcdf {indexlocation} PHIGrid_Severe 00.00 20150416-183240.netcdf </params>
+ <selections>20150416-183240 PHIGrid_Severe 00.00 </selections>
+</item>
+<item>
+ <time fractional="0.000000"> 1429209277 </time>
+ <params>netcdf {indexlocation} PHIGrid_Severe 00.00 20150416-183437.netcdf </params>
+ <selections>20150416-183437 PHIGrid_Severe 00.00 </selections>
+</item>
+<item>
+ <time fractional="0.000000"> 1429209396 </time>
+ <params>netcdf {indexlocation} PHIGrid_Severe 00.00 20150416-183636.netcdf </params>
+ <selections>20150416-183636 PHIGrid_Severe 00.00 </selections>
+</item>
+<item>
+ <time fractional="0.000000"> 1429209757 </time>
+ <params>netcdf {indexlocation} PHIGrid_Severe 00.00 20150416-184237.netcdf </params>
+ <selections>20150416-184237 PHIGrid_Severe 00.00 </selections>
+</item>
+</codeindex>

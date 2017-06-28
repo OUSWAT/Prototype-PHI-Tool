@@ -1,0 +1,124 @@
+    html, body {
+        font:normal 12px verdana;
+        margin:0;
+        padding:0;
+        border:0 none;
+        overflow:hidden;
+        height:100%;
+    }
+    .x-panel-body p {
+        margin:5px;
+    }
+    .settings {
+        background-image:url(js/ext/examples/shared/icons/fam/folder_wrench.png) !important;
+    }
+    .nav {
+        background-image:url(js/ext/examples/shared/icons/fam/folder_go.png) !important;
+    }
+
+    .cell-color-red .x-grid-cell {
+	#background-color: rgba(255,0,0,1);
+	#color: black;
+	color: rgba(255,0,0,1);
+	font-weight: bold;
+    }
+
+    .cell-color-blue .x-grid-cell {
+        #background-color: rgba(0,0,255,1);
+        #color: white;
+	color: rgba(0,0,255,1);
+	font-weight: bold;
+    }
+
+    .cell-color-green .x-grid-cell {
+        #background-color: rgba(0,204,0,1);
+        #color: black;
+	color: rgba(0,204,0,1);
+	font-weight: bold;
+    }
+
+    .cell-color-yellow .x-grid-cell {
+        #background-color: rgba(255,255,0,1);
+        #color: black;
+	color: rgba(255,255,0,1);
+	font-weight: bold;
+        text-shadow: 1px -1px 0 #000, 1px 1px 0 #000, -1px -1px 0 #000, -1px 1px 0 #000;
+    }
+
+    .cell-color-orange .x-grid-cell {
+        #background-color: rgba(255,128,0,1);
+        #color: black;
+        color: rgba(255,128,0,1);
+        font-weight: bold;
+        text-shadow: 1px -1px 0 #000, 1px 1px 0 #000, -1px -1px 0 #000, -1px 1px 0 #000;
+    }
+
+    .cell-color-red-black .x-grid-cell {
+        background-color: rgba(0,0,0,1);
+        #color: black;
+        color: rgba(255,0,0,1);
+        font-weight: bold;
+    }
+
+    .cell-color-blue-black .x-grid-cell {
+        background-color: rgba(0,0,0,1);
+        #color: white;
+        color: rgba(0,0,255,1);
+        font-weight: bold;
+	text-shadow: 1px -1px 0 #FFF, 1px 1px 0 #FFF, -1px -1px 0 #FFF, -1px 1px 0 #FFF;
+    }
+
+    .cell-color-green-black .x-grid-cell {
+        background-color: rgba(0,0,0,1);
+        #color: black;
+        color: rgba(0,204,0,1);
+        font-weight: bold;
+    }
+
+    .cell-color-yellow-black .x-grid-cell {
+        background-color: rgba(0,0,0,1);
+        #color: black;
+        color: rgba(255,255,0,1);
+        font-weight: bold;
+        text-shadow: 1px -1px 0 #000, 1px 1px 0 #000, -1px -1px 0 #000, -1px 1px 0 #000;
+    }
+
+    .cell-color-orange-black .x-grid-cell {
+        background-color: rgba(0,0,0,1);
+        #color: black;
+        color: rgba(255,128,0,1);
+        font-weight: bold;
+        text-shadow: 1px -1px 0 #000, 1px 1px 0 #000, -1px -1px 0 #000, -1px 1px 0 #000;
+    }
+    .cell-color-red-white .x-grid-cell {
+        background-color: rgba(255,255,255,1);
+	color: rgba(255,0,0,1);
+        font-weight: bold;
+    }
+
+    .cell-color-blue-white .x-grid-cell {
+        background-color: rgba(255,255,255,1);
+	color: rgba(0,0,255,1);
+        font-weight: bold;
+    }
+
+    .cell-color-green-white .x-grid-cell {
+        background-color: rgba(255,255,255,1);
+	color: rgba(0,204,0,1);
+        font-weight: bold;
+    }
+
+    .cell-color-yellow-white .x-grid-cell {
+        background-color: rgba(255,255,255,1);
+	color: rgba(255,255,0,1);	
+        font-weight: bold;
+        text-shadow: 1px -1px 0 #000, 1px 1px 0 #000, -1px -1px 0 #000, -1px 1px 0 #000;
+    }
+
+    .cell-color-orange-white .x-grid-cell {
+        background-color: rgba(255,255,255,1);
+        color: rgba(255,128,0,1);
+        font-weight: bold;
+        text-shadow: 1px -1px 0 #000, 1px 1px 0 #000, -1px -1px 0 #000, -1px 1px 0 #000;
+    }
+

@@ -1,0 +1,28 @@
+#map {
+	height: 100%;
+	width: 100%;
+	border: 2px solid black;
+	float:left;
+}
+#map2 {
+        height: 100%;
+        width: 100%;
+        border: 2px solid black;
+	float:left;
+}
+::selection {
+	background: rgba(0,0,0,0);
+	}
+::-moz-selection {
+	background: rgba(0,0,0,0);
+}
+
+.olControlLoadingPanel {
+            background-image:url(images/loading.gif);
+            position: fixed;
+            width: 1000px;
+            height: 850px;
+            background-position:center;
+            background-repeat:no-repeat;
+            display: none;
+}

@@ -1,0 +1,89 @@
+html, body {
+	height: 100%;
+}
+#map {
+      	width: 1000px;
+        height: 600px;
+        border: 2px solid black;
+        cursor: move;
+        z-index: 0;
+}
+#time-input {
+    position:absolute; 
+    left:auto; 
+    top:245px; 
+    z-index:10000; 
+    width: 1000px;
+    height:30px; 
+}
+.olPopup p { margin:0px; font-size: .9em;}
+.olPopup h2 { font-size:1.2em; }
+.olControlLoadingPanel {
+            background-image:url(loading.gif);
+            position: fixed;
+            width: 1000px;
+            height: 850px;
+            background-position:center;
+            background-repeat:no-repeat;
+            display: none;
+}
+.olControlMousePosition {
+    top: 3px;
+    left: 3px;
+}
+.olControlScaleBar {
+    font-family: sans-serif;
+    color: #000;
+}
+
+.olControlScaleBarBar {
+    height: 1px;
+    top: 14px;
+    background: #333;
+}
+
+.olControlScaleBarBarAlt {
+    height: 1px;
+    top: 14px;
+    background: #333;
+}
+
+.olControlScaleBarMarkerMajor {
+    height: 7px;
+    width: 1px;
+    top: 11px;
+    background: #333;
+}
+
+.olControlScaleBarMarkerMinor {
+    height: 5px;
+    width: 1px;
+    top: 12px;
+    background: #333;
+}
+
+.olControlScaleBarNumbersBox {
+    width: 40px;
+    height: 13px;
+    top: 21px;
+    font-size: 0.7em;
+}
+
+.olControlScaleBarLabelBox {
+    top: -2px;
+    height: 15px;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+    font-size: 0.7em;
+    font-variant: small-caps;
+}
+
+.olControlScaleBarLabelBoxSingleLine {
+    height: 15px;
+    width: 35px;
+    top: 5px;
+    left: 10px;
+    font-size: 0.7em;
+    font-variant: small-caps;
+}
+

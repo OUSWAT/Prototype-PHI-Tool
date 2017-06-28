@@ -1,0 +1,35 @@
+nanc<?php
+
+if (isset($argv))
+     for ($i=1;$i<count($argv);$i++){
+          $it = split("=",$argv[$i]);
+          $_GET[$it[0]] = $it[1];
+     }
+
+date_default_timezone_set('UTC');
+
+$d = isset($_GET["d"]) ? $_GET["d"] : "20150527201832";
+$fcstr = isset($_GET["fcstr"]) ? $_GET["fcstr"] : "ewp9";
+$type = isset($_GET["type"]) ? $_GET["type"] : "severe";
+$archive = isset($_GET["archive"]) ? $_GET["archive"] : "0";
+$automated = isset($_GET["automated"]) ? $_GET["automated"] : "1";
+$block = isset($_GET["block"]) ? $_GET["block"] : "0";
+
+$path = "/var/www/html/RadarQC/phi_new";
+
+if(substr($fcstr,0,3) == "ewp"){
+        $fcstr = "ewp";
+}
+
+$url1 = "http://blobert.protect.nssl/RadarQC/phi_new/realtime/ewp/ewpProbs.php?d=".$d."&fcstr=".$fcstr."&type=severe&archive=".$archive."&block=".$block;
+$url2 = "http://blobert.protect.nssl/RadarQC/phi_new/realtime/ewp/ewpProbs.php?d=".$d."&fcstr=".$fcstr."&type=tornado&archive=".$archive."&block=".$block;
+
+$data = file($url1);
+
+$geojson = json_decode(trim($data[0]));
+
+print_r($geojson);
+
+// $geojson->properties->data->RowName;
+
+?>

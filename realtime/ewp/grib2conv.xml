@@ -1,0 +1,32 @@
+<!--
+   This configuration file is used by w2grib2conv
+   to determine the category id and product code for
+   different WDSS-II products.
+
+   Currently, categories supported include:
+      15  radar
+      16  forecast radar imagery
+
+   The following are valid radar product codes:
+      0   base spectrum width
+      1   base velocity
+      2   base radial velocity
+      3   vil
+      4   layer-max base reflectivity (dB)
+      5   precipitation
+     6-8  radar spectra
+     9-191 reserved
+     192-254 reserved for local use
+     255  missing
+-->
+
+<productcodes originatingcenter="161">
+<!-- PHI 2014 CONFIGURATION
+   <productcode name="PHIGrid_Hail" categoryId="15" productId="248" mdlId="103"/>
+   <productcode name="PHIGrid_Lightning" categoryId="15" productId="249" mdlId="103"/>
+   <productcode name="PHIGrid_Tornado" categoryId="15" productId="250" mdlId="103"/>
+   <productcode name="PHIGrid_Wind" categoryId="15" productId="251" mdlId="103"/>
+-->
+   <productcode name="PHIGrid_Severe" categoryId="15" productId="250" mdlId="103"/>
+   <productcode name="PHIGrid_Tornado" categoryId="15" productId="251" mdlId="103"/>
+</productcodes>

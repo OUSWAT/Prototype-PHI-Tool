@@ -1,0 +1,109 @@
+1:196:196 (instant):lambert:unknown:level 0 200:fcst time 8 hrs:from 201405141800
+2:193:193 (instant):lambert:cloudTop:level 0:fcst time 8 hrs:from 201405141800
+3:194:194 (instant):lambert:unknown:level 0 200:fcst time 8 hrs:from 201405141800
+4:195:195 (instant):lambert:unknown:level 0 200:fcst time 8 hrs:from 201405141800
+5:Visibility:m (instant):lambert:surface:level 0:fcst time 8 hrs:from 201405141800
+6:195:195 (instant):lambert:heightAboveGround:level 1000 m:fcst time 8 hrs:from 201405141800
+7:206:206 (instant):lambert:isobaricLayer:levels 40000-100000 Pa:fcst time 7-8 hrs:from 201405141800
+8:196:196 (instant):lambert:isobaricLayer:levels 40000-100000 Pa:fcst time 7-8 hrs:from 201405141800
+9:Vertical velocity [geometric]:m s-1 (instant):lambert:sigmaLayer:levels 0.5-0.8 sigma value:fcst time 7-8 hrs:from 201405141800
+10:Pressure reduced to MSL:Pa (instant):lambert:meanSea:level 0:fcst time 8 hrs:from 201405141800
+11:198:198 (instant):lambert:heightAboveGround:level 10 m:fcst time 7-8 hrs:from 201405141800
+12:2:2 (instant):lambert:heightAboveGroundLayer:levels 5000-2000 m:fcst time 7-8 hrs:from 201405141800
+13:3:3 (instant):lambert:heightAboveGroundLayer:levels 6000-1000 m:fcst time 7-8 hrs:from 201405141800
+14:192:192 (instant):lambert:unknown:level 0 200:fcst time 7-8 hrs:from 201405141800
+15:206:206 (instant):lambert:unknown:level 0 200:fcst time 7-8 hrs:from 201405141800
+16:206:206 (instant):lambert:unknown:level 0 200:fcst time 7-8 hrs:from 201405141800
+17:192:192 (instant):lambert:unknown:level 0 200:fcst time 7-8 hrs:from 201405141800
+18:197:197 (instant):lambert:heightAboveGroundLayer:levels 5000-2000 m:fcst time 8 hrs:from 201405141800
+19:1:1 (instant):lambert:heightAboveGroundLayer:levels 6000-1000 m:fcst time 8 hrs:from 201405141800
+20:195:195 (instant):lambert:unknown:level 0 200:fcst time 8 hrs:from 201405141800
+21:196:196 (instant):lambert:unknown:level 0 200:fcst time 8 hrs:from 201405141800
+22:213:213 (instant):lambert:unknown:level 0 200:fcst time 8 hrs:from 201405141800
+23:201:201 (instant):lambert:unknown:level 0 200:fcst time 8 hrs:from 201405141800
+24:214:214 (instant):lambert:unknown:level 0 200:fcst time 8 hrs:from 201405141800
+25:202:202 (instant):lambert:unknown:level 0 200:fcst time 8 hrs:from 201405141800
+26:Wind mixing energy:J (instant):lambert:heightAboveGround:level 80 m:fcst time 8 hrs:from 201405141800
+27:U-component of current:m s**-1 (instant):lambert:heightAboveGround:level 80 m:fcst time 8 hrs:from 201405141800
+28:V-component of current:m s**-1 (instant):lambert:heightAboveGround:level 80 m:fcst time 8 hrs:from 201405141800
+29:Surface pressure:Pa (instant):lambert:surface:level 0:fcst time 8 hrs:from 201405141800
+30:Temperature:K (instant):lambert:surface:level 0:fcst time 8 hrs:from 201405141800
+31:Soil Temperature:K (instant):lambert:surface:level 0:fcst time 8 hrs:from 201405141800
+32:192:192 (instant):lambert:surface:level 0:fcst time 8 hrs:from 201405141800
+33:Soil Temperature:K (instant):lambert:depthBelowLand:level 0.01 m:fcst time 8 hrs:from 201405141800
+34:192:192 (instant):lambert:depthBelowLand:level 0.01 m:fcst time 8 hrs:from 201405141800
+35:Soil Temperature:K (instant):lambert:depthBelowLand:level 0.04 m:fcst time 8 hrs:from 201405141800
+36:192:192 (instant):lambert:depthBelowLand:level 0.04 m:fcst time 8 hrs:from 201405141800
+37:Soil Temperature:K (instant):lambert:depthBelowLand:level 0.1 m:fcst time 8 hrs:from 201405141800
+38:192:192 (instant):lambert:depthBelowLand:level 0.1 m:fcst time 8 hrs:from 201405141800
+39:Soil Temperature:K (instant):lambert:depthBelowLand:level 0.3 m:fcst time 8 hrs:from 201405141800
+40:192:192 (instant):lambert:depthBelowLand:level 0.3 m:fcst time 8 hrs:from 201405141800
+41:Soil Temperature:K (instant):lambert:depthBelowLand:level 0.6 m:fcst time 8 hrs:from 201405141800
+42:192:192 (instant):lambert:depthBelowLand:level 0.6 m:fcst time 8 hrs:from 201405141800
+43:Soil Temperature:K (instant):lambert:depthBelowLand:level 1.0 m:fcst time 8 hrs:from 201405141800
+44:192:192 (instant):lambert:depthBelowLand:level 1.0 m:fcst time 8 hrs:from 201405141800
+45:Soil Temperature:K (instant):lambert:depthBelowLand:level 1.6 m:fcst time 8 hrs:from 201405141800
+46:192:192 (instant):lambert:depthBelowLand:level 1.6 m:fcst time 8 hrs:from 201405141800
+47:Soil Temperature:K (instant):lambert:depthBelowLand:level 3.0 m:fcst time 8 hrs:from 201405141800
+48:192:192 (instant):lambert:depthBelowLand:level 3.0 m:fcst time 8 hrs:from 201405141800
+49:Water equivalent of accumulated snow depth:kg m**-2 (instant):lambert:surface:level 0:fcst time 8 hrs:from 201405141800
+50:2 metre temperature:K (instant):lambert:heightAboveGround:level 2 m:fcst time 8 hrs:from 201405141800
+51:Potential temperature:K (instant):lambert:heightAboveGround:level 2 m:fcst time 8 hrs:from 201405141800
+52:Specific humidity:kg kg**-1 (instant):lambert:heightAboveGround:level 2 m:fcst time 8 hrs:from 201405141800
+53:2 metre dewpoint temperature:K (instant):lambert:heightAboveGround:level 2 m:fcst time 8 hrs:from 201405141800
+54:Relative humidity:% (instant):lambert:heightAboveGround:level 2 m:fcst time 8 hrs:from 201405141800
+55:10 metre U wind component:m s**-1 (instant):lambert:heightAboveGround:level 10 m:fcst time 8 hrs:from 201405141800
+56:10 metre V wind component:m s**-1 (instant):lambert:heightAboveGround:level 10 m:fcst time 8 hrs:from 201405141800
+57:192:192 (instant):lambert:heightAboveGround:level 10 m:fcst time 7-8 hrs:from 201405141800
+58:Total precipitation:kg m-2 (accum):lambert:surface:level 0:fcst time 0-8 hrs (accum):from 201405141800
+59:Convective precipitation (water):kg m**-2 (accum):lambert:surface:level 0:fcst time 0-8 hrs (accum):from 201405141800
+60:Large scale precipitation (non-convective):kg m**-2 (accum):lambert:surface:level 0:fcst time 0-8 hrs (accum):from 201405141800
+61:Water equivalent of accumulated snow depth:kg m**-2 (accum):lambert:surface:level 0:fcst time 0-8 hrs (accum):from 201405141800
+62:Total precipitation:kg m-2 (accum):lambert:surface:level 0:fcst time 7-8 hrs (accum):from 201405141800
+63:Convective precipitation (water):kg m**-2 (accum):lambert:surface:level 0:fcst time 7-8 hrs (accum):from 201405141800
+64:Large scale precipitation (non-convective):kg m**-2 (accum):lambert:surface:level 0:fcst time 7-8 hrs (accum):from 201405141800
+65:Water equivalent of accumulated snow depth:kg m**-2 (accum):lambert:surface:level 0:fcst time 7-8 hrs (accum):from 201405141800
+66:195:195 (instant):lambert:surface:level 0:fcst time 8 hrs:from 201405141800
+67:194:194 (instant):lambert:surface:level 0:fcst time 8 hrs:from 201405141800
+68:193:193 (instant):lambert:surface:level 0:fcst time 8 hrs:from 201405141800
+69:192:192 (instant):lambert:surface:level 0:fcst time 8 hrs:from 201405141800
+70:197:197 (instant):lambert:surface:level 0:fcst time 8 hrs:from 201405141800
+71:Sensible heat net flux:W m**-2 (instant):lambert:surface:level 0:fcst time 8 hrs:from 201405141800
+72:Latent heat net flux:W m**-2 (instant):lambert:surface:level 0:fcst time 8 hrs:from 201405141800
+73:193:193 (instant):lambert:surface:level 0:fcst time 8 hrs:from 201405141800
+74:192:192 (instant):lambert:isobaricLayer:levels 50000-100000 Pa:fcst time 8 hrs:from 201405141800
+75:Convective available potential energy:J kg-1 (instant):lambert:surface:level 0:fcst time 8 hrs:from 201405141800
+76:Convective inhibition:J kg-1 (instant):lambert:surface:level 0:fcst time 8 hrs:from 201405141800
+77:Precipitable water:kg m**-2 (instant):lambert:unknown:level 0 200:fcst time 8 hrs:from 201405141800
+78:Low cloud cover:% (instant):lambert:unknown:level 0 214:fcst time 8 hrs:from 201405141800
+79:Medium cloud cover:% (instant):lambert:unknown:level 0 224:fcst time 8 hrs:from 201405141800
+80:High cloud cover:% (instant):lambert:unknown:level 0 234:fcst time 8 hrs:from 201405141800
+81:Total cloud cover:% (instant):lambert:unknown:level 0 200:fcst time 8 hrs:from 201405141800
+82:Geopotential Height:gpm (instant):lambert:cloudBase:level 0:fcst time 8 hrs:from 201405141800
+83:Geopotential Height:gpm (instant):lambert:cloudTop:level 0:fcst time 8 hrs:from 201405141800
+84:193:193 (instant):lambert:nominalTop:level 0:fcst time 8 hrs:from 201405141800
+85:192:192 (instant):lambert:surface:level 0:fcst time 8 hrs:from 201405141800
+86:Storm relative helicity:J kg**-1 (instant):lambert:heightAboveGroundLayer:levels 3000-0 m:fcst time 8 hrs:from 201405141800
+87:Storm relative helicity:J kg**-1 (instant):lambert:heightAboveGroundLayer:levels 1000-0 m:fcst time 8 hrs:from 201405141800
+88:194:194 (instant):lambert:heightAboveGroundLayer:levels 6000-0 m:fcst time 8 hrs:from 201405141800
+89:195:195 (instant):lambert:heightAboveGroundLayer:levels 6000-0 m:fcst time 8 hrs:from 201405141800
+90:Vertical u-component shear:s**-1 (instant):lambert:heightAboveGroundLayer:levels 1000-0 m:fcst time 8 hrs:from 201405141800
+91:Vertical v-component shear:s**-1 (instant):lambert:heightAboveGroundLayer:levels 1000-0 m:fcst time 8 hrs:from 201405141800
+92:Vertical u-component shear:s**-1 (instant):lambert:heightAboveGroundLayer:levels 6000-0 m:fcst time 8 hrs:from 201405141800
+93:Vertical v-component shear:s**-1 (instant):lambert:heightAboveGroundLayer:levels 6000-0 m:fcst time 8 hrs:from 201405141800
+94:Temperature:K (instant):lambert:pressureFromGroundLayer:levels 3000-0 Pa:fcst time 8 hrs:from 201405141800
+95:Potential temperature:K (instant):lambert:pressureFromGroundLayer:levels 3000-0 Pa:fcst time 8 hrs:from 201405141800
+96:Relative humidity:% (instant):lambert:pressureFromGroundLayer:levels 3000-0 Pa:fcst time 8 hrs:from 201405141800
+97:Dew point temperature:K (instant):lambert:pressureFromGroundLayer:levels 3000-0 Pa:fcst time 8 hrs:from 201405141800
+98:193:193 (instant):lambert:pressureFromGroundLayer:levels 18000-0 Pa:fcst time 8 hrs:from 201405141800
+99:Convective available potential energy:J kg-1 (instant):lambert:pressureFromGroundLayer:levels 18000-0 Pa:fcst time 8 hrs:from 201405141800
+100:Convective inhibition:J kg-1 (instant):lambert:pressureFromGroundLayer:levels 18000-0 Pa:fcst time 8 hrs:from 201405141800
+101:196:196 (instant):lambert:surface:level 0:fcst time 8 hrs:from 201405141800
+102:Geopotential Height:gpm (instant):lambert:adiabaticCondensation:level 0:fcst time 8 hrs:from 201405141800
+103:Convective available potential energy:J kg-1 (instant):lambert:pressureFromGroundLayer:levels 9000-0 Pa:fcst time 8 hrs:from 201405141800
+104:Convective inhibition:J kg-1 (instant):lambert:pressureFromGroundLayer:levels 9000-0 Pa:fcst time 8 hrs:from 201405141800
+105:Convective available potential energy:J kg-1 (instant):lambert:pressureFromGroundLayer:levels 25500-0 Pa:fcst time 8 hrs:from 201405141800
+106:Convective inhibition:J kg-1 (instant):lambert:pressureFromGroundLayer:levels 25500-0 Pa:fcst time 8 hrs:from 201405141800
+107:200:200 (instant):lambert:pressureFromGroundLayer:levels 25500-0 Pa:fcst time 8 hrs:from 201405141800
+108:Wind speed (gust):m s**-1 (instant):lambert:surface:level 0:fcst time 8 hrs:from 201405141800
+109:255:255 (instant):lambert:unknown:level 0 200:fcst time 8 hrs:from 201405141800

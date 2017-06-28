@@ -1,0 +1,3 @@
+function specialConfig(){
+	return;
+}
